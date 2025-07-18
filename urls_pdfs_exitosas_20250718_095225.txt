@@ -1,0 +1,44 @@
+URLs de PDFs encontradas exitosamente:
+==================================================
+
+1. Proyecto de Ley Orgánica Reformatoria de la Ley de Educación...
+   📄 PDF: https://ppless.asambleanacional.gob.ec/alfresco/d/d/workspace/SpacesStore/3e0746a3-8cc1-42e7-953c-524b2fbfa534/453765-recalde.pdf
+   📅 Fecha: 2024-08-02
+
+2. Proyecto de Ley Orgánica Reformatoria a la Ley Orgánica de C...
+   📄 PDF: https://ppless.asambleanacional.gob.ec/alfresco/d/d/workspace/SpacesStore/b715df52-9c08-441e-be0e-8b8a7849c429/453797-herrera.pdf
+   📅 Fecha: 2024-08-02
+
+3. Proyecto de Ley Orgánica Reformatoria a la Ley de Defensa de...
+   📄 PDF: https://ppless.asambleanacional.gob.ec/alfresco/d/d/workspace/SpacesStore/232282cb-b660-4ea5-8782-b65a3f513351/453810-samaniego.pdf
+   📅 Fecha: 2024-08-02
+
+4. Proyecto de Ley Orgánica Reformatoria de la Ley Orgánica de ...
+   📄 PDF: https://ppless.asambleanacional.gob.ec/alfresco/d/d/workspace/SpacesStore/82154e77-f4a3-4f25-80b5-f11a6721869d/pp%20-%20proyecto%20de%20ley%20453679-cruz.pdf
+   📅 Fecha: 2024-08-01
+
+5. Proyecto de Ley Reformatoria a la Ley Orgánica del Concejo d...
+   📄 PDF: https://ppless.asambleanacional.gob.ec/alfresco/d/d/workspace/SpacesStore/37692d77-fd73-4ae6-9602-774d49bebe46/453713-samaniego.pdf
+   📅 Fecha: 2024-08-01
+
+6. Proyecto de Ley Orgánica Reformatoria de la Ley Orgánica de ...
+   📄 PDF: https://ppless.asambleanacional.gob.ec/alfresco/d/d/workspace/SpacesStore/ac0184ff-feb2-4341-b327-7f3243c0d7f7/453714-aguas.pdf
+   📅 Fecha: 2024-08-01
+
+7. Proyecto de Ley de Ejercicio Profesional del Trabajo Social
+...
+   📄 PDF: https://ppless.asambleanacional.gob.ec/alfresco/d/d/workspace/SpacesStore/ea8a76f9-ec58-4356-918d-040a5648ef64/pp%20-%20proyecto%20de%20ley%20453684-corral.pdf
+   📅 Fecha: 2024-08-01
+
+8. Proyecto de Ley Orgánica Reformatoria al Código Orgánico Int...
+   📄 PDF: https://ppless.asambleanacional.gob.ec/alfresco/d/d/workspace/SpacesStore/b20c33de-b8f5-4fbb-9e06-343e69e4709a/pp%20-%20proyecto%20de%20ley%20453680-posso.pdf
+   📅 Fecha: 2024-08-01
+
+9. Proyecto de Ley Reformatoria a la Ley de Minería para garant...
+   📄 PDF: https://ppless.asambleanacional.gob.ec/alfresco/d/d/workspace/SpacesStore/d03394db-7c7e-4bd3-b3ee-0e8ad4f3c489/453707-valladarez.pdf
+   📅 Fecha: 2024-08-01
+
+10. Proyecto de Ley Reformatoria al Código Orgánico Integral Pen...
+   📄 PDF: https://ppless.asambleanacional.gob.ec/alfresco/d/d/workspace/SpacesStore/f42ee0ae-d188-428d-ae14-cff667ce3aec/PP-PRO~1.PDF
+   📅 Fecha: 2024-08-01
+
